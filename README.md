@@ -1,0 +1,2 @@
+# gartner
+Generated Repository
